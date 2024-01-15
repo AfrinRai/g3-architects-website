@@ -5,6 +5,11 @@
 * {
     font-family: "Work Sans", sans-serif;
 }
+.section-title{
+    color: #131313;
+    font-size: 2.8em;   /* 1em = 16px */
+    font-weight: 700;
+}
 .text-light-gray{
     color: #727272;
 }
@@ -40,11 +45,6 @@ nav li{
 nav li a{
     text-decoration: none;
     color: #424242;
-}
-.nav-title{
-    color: #131313;
-    font-size: 2.8em;   /* 1em = 16px */
-    font-weight: 700;
 }
 
 /* Banner styling */
